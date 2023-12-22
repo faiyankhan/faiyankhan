@@ -9,4 +9,4 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 📫 How to reach me **faiyan@gmail.com**
+- 📫 How to reach me **faiyankhan26@gmail.com**
