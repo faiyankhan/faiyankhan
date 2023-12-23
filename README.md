@@ -1,4 +1,4 @@
-![logo](https://github.com/sameer00782/sameer00782/blob/main/Banner1.gif)
+ ![Logo](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 <h1 align="center">Hi 👋, I'm FAIYAN KHAN</h1>
 <h3 align="center">I am like a code under development.</h3>
 <img align="right"alt="coding"width="400"src=http://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif>
