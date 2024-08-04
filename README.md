@@ -20,10 +20,6 @@
 
 <br><br>
 
-<div align="center">
-    <img src="https://github.com/r1cksec/r1cksec/raw/main/profile.gif"/>
-<div>
-
 <h1 align="center">Hi 👋, I'm FAIYAN KHAN</h1>
 <h3 align="center">I am like a code under development.</h3>
 <img align="right"alt="coding"width="400"src=http://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif>
