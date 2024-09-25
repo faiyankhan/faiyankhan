@@ -27,7 +27,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer00782&label=Profile%20views&color=0e75b6&style=flat" alt="sameer00782" /> </p>
 
 - 🔭 I’m currently studying **B-Tech** from
--  <br> **Ramdeobaba University NAGPUR**
+  <br> **Ramdeobaba University NAGPUR**
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
