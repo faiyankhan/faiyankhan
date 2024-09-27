@@ -30,4 +30,6 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
+- 💬 Ask me about react , python
+
 - 📫 How to reach me **faiyankhan26@gmail.com**
