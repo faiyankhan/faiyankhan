@@ -30,7 +30,6 @@
 - 💬 Ask me about **JavaScript** &  **Pyhton**
 
 - 📫 How to reach me **faiyankhan26@gmail.com**
-<br>
 
 ## 💻 Tech Stack
 
