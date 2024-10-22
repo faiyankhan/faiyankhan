@@ -21,8 +21,8 @@
 <h1 align="center">Hi 👋, I'm FAIYAN KHAN</h1>
 <h3 align="center">I am like a code under development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer00782&label=Profile%20views&color=0e75b6&style=flat" alt="sameer00782" /> </p>
-
+[![](https://visitcount.itsvg.in/api?id=faiyankhan&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 About Me
 - 🔭 I’m currently studying **B-Tech** from **RCOEM NAGPUR**
 
 - 🌱 I’m currently learning **MERN Stack Development**
@@ -41,11 +41,12 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 <br>
 
 ## 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=faiyankhan&theme=midnight-purple&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faiyankhan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
