@@ -16,20 +16,28 @@
                                                                        `YY~~~~YY'
                                                                          ||    ||
 ```
-
-<br>
 <h1 align="center">Hi 👋, I'm FAIYAN KHAN</h1>
 <h3 align="center">I am like a code under development.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=faiyankhan&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🚀 About Me
+
+<img align="right" height="220px" width="440px" src="http://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif"/>
+
 - 🔭 I’m currently studying **B-Tech** from **RCOEM NAGPUR**
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **JavaScript** &  **Pyhton**
+- 💬 Ask me about **JavaScript** &  **Python**
 
 - 📫 How to reach me **faiyankhan26@gmail.com**
+
+- 👯 I’m looking to collaborate on **Full Stack Projects**
+
+- ⚡ Fun fact:I love creating content. 
+
+<br>
 
 ## 💻 Tech Stack
 
