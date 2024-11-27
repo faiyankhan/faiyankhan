@@ -35,7 +35,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- ⚡ Fun fact:I love creating content. 
+- 👩‍💻 I spend more time reading code than writing it.
 
 <br>
 
