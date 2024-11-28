@@ -25,8 +25,6 @@
 
 <img align="right" height="220px" width="440px" src="http://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif"/>
 
--
-
 - 🌱 I’m currently learning **MERN Stack Development**
 
 - 💬 Ask me about **JavaScript** &  **Python**
